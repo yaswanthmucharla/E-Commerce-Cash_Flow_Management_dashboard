@@ -1,2 +1,96 @@
-# Cash_Flow_Management
-End-to-end Power BI project for analyzing e-commerce cash flow, actual cash realization, payment methods, settlement delays and customer age-based transaction behaviour using transactional and monthly data.
+# E-Commerce Cash Flow Management Dashboard – 2024
+This project presents an end-to-end Power BI dashboard developed to analyze and monitor cash flow performance in an e-commerce environment.
+The dashboard focuses on sales performance, actual cash realization, payment behaviour, settlement delays and customer transaction patterns using transactional and monthly aggregated data.
+## Project Overview
+
+E-commerce organizations handle large volumes of daily transactions across multiple payment methods and customer segments.
+Tracking only total sales is not sufficient to understand real financial performance, because cash realization may differ due to payment failures, settlement delays and processing differences.
+This project provides an interactive and centralized dashboard that enables stakeholders to monitor financial performance and operational efficiency related to cash flow.
+
+
+## Problem Statement
+Maintaining a healthy cash flow is a perennial issue for SMEs, yet, a lot still struggle with that. Sometimes, your customers just don’t pay their invoices, which snowballs into bigger problems for your company. Inconsistent cash inflows can disrupt daily operations, delay payments to suppliers, and limit the ability to invest in growth opportunities. 
+According to multiple surveys, more than 80% of businesses fail due to poor cash flow management. Without a stable cash flow, SMEs often struggle to meet payroll, secure inventory, or adapt to unexpected financial shocks.
+
+The objective of this project is to design an interactive dashboard that supports better financial visibility and data-driven decision-making.
+
+##  Business Questions
+
+This dashboard answers the following key business questions:
+
+1.How much total revenue is generated and how much cash is actually received?
+2.How does gross sales compare with actual cash received on a monthly basis?
+3.Which payment methods contribute the most to actual cash received?
+4.How much cash is associated with settlement delays?
+5.Which customer age groups generate the highest number of transactions?
+6.How do product categories and countries influence cash flow performance?
+
+
+##  Datasets Used
+
+ **Ecommerce_transactions.xlsx** – Raw transactional dataset.
+ **cashflow_transactions.xlsx** – Cleaned transaction-level dataset used for analysis and reporting.
+ **monthly_cashflow.xlsx** – Monthly aggregated cash flow dataset.
+
+
+##  Key KPIs
+
+**Total Sales (Gross)** – Total value of all orders placed before settlement.
+**Actual Cash Received** – Total cash successfully received.
+**Total Orders** – Total number of transactions.
+**Cash Loss** – Difference between gross sales and actual cash received.
+
+
+
+## Dashboard Visuals
+
+The dashboard contains the following visualizations:
+
+Monthly Gross Sales vs Actual Cash Received (trend analysis)
+Net cash by payment method
+Cash received by settlement delay days
+Transactions by customer age group
+KPI cards for financial performance
+
+
+## Interactive Filters
+
+* Payment Method
+* Product Category
+* Country
+
+All KPIs and visuals update dynamically based on the selected filters.
+
+
+
+##  Tools & Technologies
+
+* Microsoft Power BI
+* Microsoft Excel
+* Python (Pandas)
+* Jupyter Notebook
+
+
+
+##  Data Preparation
+
+Data cleaning, transformation and monthly aggregation were performed using Python in the notebook:
+
+```
+Notebooks/Cash_flow_management.ipynb
+```
+
+The prepared datasets were then used to build the Power BI data model and visuals.
+
+
+
+##  Project Objective
+
+To build a clean and interactive financial dashboard that helps business and finance teams:
+
+* track real cash inflow,
+* detect payment settlement delays,
+* analyse payment method performance, and
+* understand customer transaction behaviour using age-group segmentation.
+
+
