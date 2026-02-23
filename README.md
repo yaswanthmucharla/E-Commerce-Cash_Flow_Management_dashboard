@@ -1,8 +1,8 @@
-E-Commerce Cash Flow Management Dashboard – 2024
+## E-Commerce Cash Flow Management Dashboard – 2024
 This project presents an end-to-end Power BI dashboard developed to analyze and monitor cash flow performance in an e-commerce environment.
 The dashboard focuses on sales performance, actual cash realization, payment behaviour, settlement delays, and customer transaction patterns using transactional and monthly aggregated data.
 
-📊 Project Overview
+## Project Overview
 E-commerce organizations handle large volumes of daily transactions across multiple payment methods and customer segments.
 Tracking only total sales is not sufficient to understand real financial performance, because cash realization may differ due to payment failures, settlement delays and processing differences.
 
@@ -10,9 +10,10 @@ This project provides an interactive and centralized dashboard that enables stak
 
 
 ## Problem Statement
-Maintaining a healthy cash flow is a perennial issue for SMEs, yet, a lot still struggle with that. Sometimes, your customers just don’t pay their invoices, which snowballs into bigger problems for your company. Inconsistent cash inflows can disrupt daily operations, delay payments to suppliers, and limit the ability to invest in growth opportunities. 
+Maintaining a healthy cash flow is a persistent challenge for small and medium-sized enterprises (SMEs).
+Inconsistent customer payments, settlement delays and payment failures often result in irregular cash inflows, which can disrupt daily operations, delay supplier payments and limit the ability to invest in business growth.
+Poor cash flow visibility makes it difficult for organizations to identify revenue leakages, monitor delayed settlements and understand payment performance across different channels.
 According to multiple surveys, more than 80% of businesses fail due to poor cash flow management. Without a stable cash flow, SMEs often struggle to meet payroll, secure inventory, or adapt to unexpected financial shocks.
-
 The objective of this project is to design an interactive dashboard that supports better financial visibility and data-driven decision-making.
 
 ##  Business Questions
