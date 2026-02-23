@@ -75,11 +75,6 @@ All KPIs and visuals update dynamically based on the selected filters.
 ##  Data Preparation
 
 Data cleaning, transformation and monthly aggregation were performed using Python in the notebook:
-
-```
-Notebooks/Cash_flow_management.ipynb
-```
-
 The prepared datasets were then used to build the Power BI data model and visuals.
 
 
