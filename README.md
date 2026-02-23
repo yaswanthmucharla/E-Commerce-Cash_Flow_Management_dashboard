@@ -29,7 +29,7 @@ This dashboard answers the following key business questions:
 ##  Datasets Used
 
  <a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Ecommerce_transactions.xlsx">E-commerce_Transaction_dataset</a> –-Raw transactional dataset.<br>
-  <a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/cashflow_transactions.xlsx">Cashflow_transactions</a> – Cleaned transaction-level dataset used for analysis and reporting.
+  <a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/cashflow_transactions.xlsx">Cashflow_transactions</a> – Cleaned transaction-level dataset used for analysis and reporting.<br>
  <a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/monthly_cashflow.xlsx>monthly_cashflow">Monthly_transaction</a> – Monthly aggregated cash flow dataset.
 
 
@@ -51,8 +51,8 @@ Net cash by payment method
 Cash received by settlement delay days
 Transactions by customer age group
 KPI cards for financial performance
-<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cashflow_dashboard.png">Cash_flow_dashboard</a>
-<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/CASH%20FLOW%20MANAGEMENT%20PROJECT.pbix">powerbi_link:</a>
+<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cashflow_dashboard.png">Cash_flow_dashboard</a>.<br>
+Powerbi_link:<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/CASH%20FLOW%20MANAGEMENT%20PROJECT.pbix">powerbi_link:</a>
 
 ## Interactive Filters
 
