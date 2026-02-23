@@ -23,10 +23,15 @@ The objective of this project is to design an interactive dashboard that support
 This dashboard answers the following key business questions:
 
 1.How much total revenue is generated and how much cash is actually received?
+
 2.How does gross sales compare with actual cash received on a monthly basis?
+
 3.Which payment methods contribute the most to actual cash received?
+
 4.How much cash is associated with settlement delays?
+
 5.Which customer age groups generate the highest number of transactions?
+
 6.How do product categories and countries influence cash flow performance?
 
 
