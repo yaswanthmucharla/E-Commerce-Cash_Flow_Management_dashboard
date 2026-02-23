@@ -51,7 +51,7 @@ Net cash by payment method
 Cash received by settlement delay days
 Transactions by customer age group
 KPI cards for financial performance
-<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cashflow_dashboard.png">Cash_flow_dashboard</a>.<br>
+<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cashflow_dashboard.png">View dashboard</a>.<br>
 Powerbi_link:<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/CASH%20FLOW%20MANAGEMENT%20PROJECT.pbix">powerbi_Dashboard</a>
 
 ## Interactive Filters
