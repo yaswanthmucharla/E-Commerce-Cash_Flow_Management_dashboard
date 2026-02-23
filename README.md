@@ -87,9 +87,8 @@ All KPIs and visuals update dynamically based on the selected filters.
 
 ##  Data Preparation
 
-Data cleaning, transformation and monthly aggregation were performed using Python in the notebook:
-The prepared datasets were then used to build the Power BI data model and visuals.<br>
-Python-file:<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cash_flow_management.ipynb">python</a>
+Data cleaning, transformation and monthly aggregation were performed using Python in the notebook.
+The prepared datasets were then used to build the Power BI data model and visuals.<a href="https://github.com/yaswanthmucharla/E-Commerce-Cash_Flow_Management_dashboard/blob/main/Cash_flow_management.ipynb">python</a>
 
 
 ##  Project Objective
