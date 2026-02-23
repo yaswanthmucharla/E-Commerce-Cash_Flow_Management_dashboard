@@ -45,8 +45,11 @@ This dashboard answers the following key business questions:
 ##  Key KPIs
 
 **Total Sales (Gross)** – Total value of all orders placed before settlement.
+
 **Actual Cash Received** – Total cash successfully received.
+
 **Total Orders** – Total number of transactions.
+
 **Cash Loss** – Difference between gross sales and actual cash received.
 
 
