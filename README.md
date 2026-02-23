@@ -1,10 +1,11 @@
-# E-Commerce Cash Flow Management Dashboard – 2024
+E-Commerce Cash Flow Management Dashboard – 2024
 This project presents an end-to-end Power BI dashboard developed to analyze and monitor cash flow performance in an e-commerce environment.
-The dashboard focuses on sales performance, actual cash realization, payment behaviour, settlement delays and customer transaction patterns using transactional and monthly aggregated data.
-## Project Overview
+The dashboard focuses on sales performance, actual cash realization, payment behaviour, settlement delays, and customer transaction patterns using transactional and monthly aggregated data.
 
+📊 Project Overview
 E-commerce organizations handle large volumes of daily transactions across multiple payment methods and customer segments.
 Tracking only total sales is not sufficient to understand real financial performance, because cash realization may differ due to payment failures, settlement delays and processing differences.
+
 This project provides an interactive and centralized dashboard that enables stakeholders to monitor financial performance and operational efficiency related to cash flow.
 
 
