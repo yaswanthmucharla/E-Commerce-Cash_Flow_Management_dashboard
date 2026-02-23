@@ -13,7 +13,9 @@ This project provides an interactive and centralized dashboard that enables stak
 Maintaining a healthy cash flow is a persistent challenge for small and medium-sized enterprises (SMEs).
 Inconsistent customer payments, settlement delays and payment failures often result in irregular cash inflows, which can disrupt daily operations, delay supplier payments and limit the ability to invest in business growth.
 Poor cash flow visibility makes it difficult for organizations to identify revenue leakages, monitor delayed settlements and understand payment performance across different channels.
+
 According to multiple surveys, more than 80% of businesses fail due to poor cash flow management. Without a stable cash flow, SMEs often struggle to meet payroll, secure inventory, or adapt to unexpected financial shocks.
+
 The objective of this project is to design an interactive dashboard that supports better financial visibility and data-driven decision-making.
 
 ##  Business Questions
