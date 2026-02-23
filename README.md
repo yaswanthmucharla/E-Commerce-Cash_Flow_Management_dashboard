@@ -97,7 +97,7 @@ To build a clean and interactive financial dashboard that helps business and fin
 
 * track real cash inflow,
 * detect payment settlement delays,
-* analyse payment method performance, and
+* analyze payment method performance, and
 * understand customer transaction behaviour using age-group segmentation.
 
 
